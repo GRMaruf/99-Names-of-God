@@ -108,10 +108,3 @@ Important Note on the Number of Names: Islamic theology holds that the names of 
 |    97 | Al-Waarith            | الوارث             | The Inheritor           |
 |    98 | Ar-Rasheed            | الرشيد             | The Guide to Right Path |
 |    99 | As-Saboor             | الصبور             | The Patient             |
-
-
-
-
-
-### Categorizing Them
-, Al-Mughni, Al-Maani, Ad-Darr, An-Nafi, An-Nur, Al-Haadi, Al-Badee, Al-Baaqi, Al-Waarith, Ar-Rasheed, As-Saboo
